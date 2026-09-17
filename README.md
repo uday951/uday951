@@ -9,9 +9,6 @@ I build real-world web applications and explore AI-powered products, agents, and
 <a href="https://github.com/uday951">
   <img src="https://img.shields.io/badge/GitHub-uday951-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
 
 </div>
 
@@ -75,16 +72,20 @@ A product ecosystem built around learning, development, and AI-powered experienc
 ### [School Management](https://github.com/uday951/school-management-sass-2)
 A modular school management platform covering core academic and administrative workflows.
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uday951&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday951&layout=compact&hide_border=true&langs_count=8" height="170" alt="Top languages" />
+
+<a href="https://github.com/uday951?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-20%2B-181717?style=for-the-badge&logo=github" alt="Public repositories" />
+</a>
+<a href="https://github.com/uday951?tab=stars">
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-%E2%86%92-0969DA?style=for-the-badge" alt="Explore projects" />
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=uday951&hide_border=true" alt="GitHub streak" />
-</div>
+> GitHub contributions and activity are visible directly on my profile.
 
 ## 🎯 Currently Building
 
